@@ -1,2 +1,3 @@
-DOMAIN,rewards.bing.com
-DOMAIN,prod.rewardsplatform.microsoft.com
+#xbox rewards
+DOMAIN-suffix,rewards.bing.com
+DOMAIN-suffix,prod.rewardsplatform.microsoft.com
