@@ -1,3 +1,6 @@
 #xbox rewards
 DOMAIN-SUFFIX,rewards.bing.com
 DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
+#oldubil
+DOMAIN-SUFFIX,oldubil.colendilabs.com
+DOMAIN-SUFFIX,dengage.com
